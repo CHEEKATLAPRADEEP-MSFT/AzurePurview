@@ -11,7 +11,10 @@ This article helps to provide role assignment for Azure Purview account using Po
 ### Steps to launch Azure Purview API via PowerShell
 
 1. Open PowerShell 7 and Run As Administrator
-
     ![image](https://user-images.githubusercontent.com/79183421/132214896-4cca3fcb-4da6-469a-b9e9-a2c94a3f231c.png)
 2. Navigate to the folder where you have previously downloaded and extracted the Purview-API-PowerShell.
+    ![image](https://user-images.githubusercontent.com/79183421/132217257-f6782816-62b5-49ee-9741-fa9f07db3638.png)
+3. Run "Purview-API-PowerShell.exe" and enter the name of the Azure Purview account.
+    ![image](https://user-images.githubusercontent.com/79183421/132217527-794dfab9-a656-469e-85f7-3192bb71383f.png)
+
     
