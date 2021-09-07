@@ -1,6 +1,6 @@
 # AzurePurview: Role Assignments for Purview Account's Root collection using PowerShell
 
-This article helps to provide role assignment for Azure Purview account using PowerShell.
+This article helps to provide role assignment for Azure Purview account using PowerShell 7.
 
 ### Prerequisites
 
