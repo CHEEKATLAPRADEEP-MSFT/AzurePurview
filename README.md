@@ -54,4 +54,5 @@ You can choose the below options to use the Azure Purview API.
 7. Now successfully, we had provided the Role Assignments for Purview Account's Root collection using PowerShell.
     ![image](https://user-images.githubusercontent.com/79183421/132276750-e2b6e900-18f5-4b9b-9bb7-ab912908e0de.png)
 8. You can verfiy the same in Azure Purview Portal.
+   Go to Data Map => Collections => Select your collection => Role assignments =>Verify the username associated with the objectID.
     ![image](https://user-images.githubusercontent.com/79183421/132276937-2efdb0eb-dbd6-44da-8a0c-2e63d0987662.png)
