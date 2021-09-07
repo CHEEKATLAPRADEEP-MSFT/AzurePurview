@@ -34,7 +34,7 @@ You can choose the below options to use the Azure Purview API.
 
 1. Get the details about the Service Principal/user which you want to add to the role assignment for Purview accounts root collections. 
 > * For Users go to Azure Active Directory => users => search user => Click on profile => Copy the ObjectID
-   ![image](https://user-images.githubusercontent.com/79183421/132221458-98ba082e-136c-481f-8644-384130fb31ee.png)
+   ![image](https://user-images.githubusercontent.com/79183421/132301664-d17d550a-8f83-43f1-9b18-ee2433a514cf.png)
 > * For Service Principal go to Azure Active Directory => Enterprise applications => Search application => Copy the ObjectID
    ![image](https://user-images.githubusercontent.com/79183421/132221769-78c5ed2a-527a-4962-866e-b41abe5da01c.png)
 2. Get the details about the metadatapolicy by choosing the GET method => `readAllMetadataPolicies` command
